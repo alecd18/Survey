@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<responses>
+  <response type="String">
+    <value>true</value>
+  </response>
+  <response type="String">
+    <value>1</value>
+  </response>
+  <response type="String">
+    <value>short answer</value>
+  </response>
+</responses>

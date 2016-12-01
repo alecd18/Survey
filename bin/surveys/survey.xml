@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<questions>
+  <question type="TF">
+    <prompt>true or false?</prompt>
+  </question>
+  <question type="MC">
+    <prompt>choose 1</prompt>
+    <choices>
+      <choice num="1">choice 1</choice>
+      <choice num="2">choice 2</choice>
+    </choices>
+  </question>
+  <question type="SA">
+    <prompt>write a short answer</prompt>
+  </question>
+  <question type="E">
+    <prompt>write an essay</prompt>
+  </question>
+  <question type="R">
+    <prompt>rank these</prompt>
+    <choices>
+      <choice>option 2</choice>
+    </choices>
+  </question>
+  <question type="M">
+    <prompt>match these</prompt>
+    <choices>
+      <choice>option 2<letter>b</letter>
+      </choice>
+      <choice>option 1<letter>a</letter>
+      </choice>
+    </choices>
+  </question>
+</questions>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<responses>
+  <response type="String">
+    <value>true</value>
+  </response>
+  <response type="String">
+    <value>1</value>
+  </response>
+  <response type="String">
+    <value>answer to short answer question</value>
+  </response>
+  <response type="HashMap">
+    <choice rank="2">option 2</choice>
+    <choice rank="1">option 1</choice>
+  </response>
+  <response type="HashMap">
+    <choice rank="b">match 2</choice>
+    <choice rank="a">match 1</choice>
+  </response>
+</responses>
